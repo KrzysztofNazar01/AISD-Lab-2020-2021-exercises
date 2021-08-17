@@ -1,0 +1,4 @@
+﻿  Sortowanie.cpp
+C:\Informatyka\II SEMESTR\AiSD\laboratoria\lab 2\LAB2AISD\LAB2AISD\Sortowanie.cpp(10,31): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Informatyka\II SEMESTR\AiSD\laboratoria\lab 2\LAB2AISD\LAB2AISD\Sortowanie.cpp(11,31): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+  LAB2AISD.vcxproj -> C:\Informatyka\II SEMESTR\AiSD\laboratoria\lab 2\LAB2AISD\x64\Debug\LAB2AISD.exe
