@@ -1,0 +1,16 @@
+Zbiór - element (laboratoria)
+Sprawdź bitowo (inne rozwiązania -10 pkt.), czy dana liczba jest elementem zbioru. Uwaga jest 1000 zapytań.
+Wejście
+W kolejnych liniach po spacjach moc zbioru, zbiór oraz dana liczba.
+Wyjście
+W kolejnych liniach 1 jeśli dana liczba jest elementem zbioru, 0 w przeciwnym przypadku.
+Przykład
+
+Wejście
+4 {3239,4312,1788,4059} 2578
+9 {2066,2673,3899,4548,3813,1458,2200,4978,1945} 4548
+
+Wyjście
+0
+1
+

@@ -1,0 +1,19 @@
+Szpon (laboratoria)
+Czy graf nie zawiera indukowanego szponu? Podpowiedź: W teoriografowej nomenklaturze szpon to gwiazda na czterech wierzchołkach.
+Wejście
+W kolejnych liniach. Macierz sąsiedztwa zapisana w jednej linii po spacjach (od lewej do prawej oraz z góry na dół).
+Wyjście
+W kolejnych liniach jedna z poniższych odpowiedzi. Cyfra 0 oznaczająca fałsz. Cyfra 1 oznaczająca prawdę.
+Przykład
+Wejście
+6 001110001000110101101011100100001100
+6 010001101000010100001010000101100010
+4 0100101101000100
+4 0100101001010010
+
+
+Wyjście
+0
+1
+0
+1
