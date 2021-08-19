@@ -1,0 +1,4 @@
+﻿  lab3.cpp
+C:\Informatyka\II SEMESTR\AiSD\laboratoria\lab 3\przewoz\przewoz\lab3.cpp(21,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Informatyka\II SEMESTR\AiSD\laboratoria\lab 3\przewoz\przewoz\lab3.cpp(35,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  przewoz.vcxproj -> C:\Informatyka\II SEMESTR\AiSD\laboratoria\lab 3\przewoz\Debug\przewoz.exe
